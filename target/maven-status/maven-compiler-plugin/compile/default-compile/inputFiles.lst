@@ -1,9 +1,0 @@
-/home/fufi970/devel/wsda/todo/src/main/java/com/tutorial/dao/TaskDAO.java
-/home/fufi970/devel/wsda/todo/src/main/java/com/tutorial/filter/AuthFilter.java
-/home/fufi970/devel/wsda/todo/src/main/java/com/tutorial/controller/LogoutServlet.java
-/home/fufi970/devel/wsda/todo/src/main/java/com/tutorial/controller/LoginServlet.java
-/home/fufi970/devel/wsda/todo/src/main/java/com/tutorial/controller/TodoServlet.java
-/home/fufi970/devel/wsda/todo/src/main/java/com/tutorial/dao/UserDAO.java
-/home/fufi970/devel/wsda/todo/src/main/java/com/tutorial/model/Task.java
-/home/fufi970/devel/wsda/todo/src/main/java/com/tutorial/util/DBUtil.java
-/home/fufi970/devel/wsda/todo/src/main/java/com/tutorial/model/User.java
